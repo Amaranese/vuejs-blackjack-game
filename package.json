@@ -1,7 +1,7 @@
 {
   "name": "vuejs-blackjack-game",
   "version": "1.0.0",
-  "private":"true",
+  "private": "true",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
